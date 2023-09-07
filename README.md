@@ -5,3 +5,5 @@
 ![Git Merge Screenshot](image.png)
 
 ![Git Merge Conflict Screenshot](merge_conflict.png)
+
+![Utils Functions and Tests](utils.png)
